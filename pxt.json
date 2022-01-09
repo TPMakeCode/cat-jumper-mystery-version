@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "arcade-background-scroll": "github:microsoft/arcade-background-scroll#926e12eefffd09d453c7cde73f8d6ebd0e666d9d",
-        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
@@ -12,7 +13,8 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
